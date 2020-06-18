@@ -47,7 +47,7 @@ header{
 }
 
 .header__list li{
-	font-family:'Fredoka One', cursive;
+	font-family:'Balsamiq Sans', cursive;
 	font-size: 20px;
 	display: flex;
 	  line-height: 17px;
@@ -154,9 +154,9 @@ font-family: 'Balsamiq Sans', cursive;
 }
 
 .h1{
-  font-family:'Fredoka One', cursive;
-  font-size: 20px;
-  color:#0E51A7;
+  font-family:'Balsamiq Sans', cursive;
+  font-size: 40px;
+  color:#5E0DAC;
 }
 
 .nav{
@@ -165,15 +165,15 @@ font-family: 'Balsamiq Sans', cursive;
 
 .a{
   text-decoration: none;
-  color:#4282D3;
+  color:#5E0DAC;
   font-size: 20px;
   font-family: 'Fredoka One', cursive;
   border-radius: 10%;
-  border-bottom: 2px solid #679ED2;
+  border-bottom: 2px solid #5E0DAC;
 }
 
 .p{
   font-family:'Fredoka One', cursive;
   font-size: 16px;
-  color:#679ED2;
+  color:#5E0DAC;
 }
